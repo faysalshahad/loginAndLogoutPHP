@@ -1,0 +1,14 @@
+body{
+    background-color: #F2EE9D;
+}
+
+.container{
+    height: 100%;
+}
+
+/* .card {
+    width: 25rem;
+    height: 22rem;
+    /*making the card background opacity nearly transperant 
+    background-color: rgba(0,0,0,0.4);
+} */
